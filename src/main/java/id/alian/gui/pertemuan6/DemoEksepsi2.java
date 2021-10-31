@@ -14,6 +14,6 @@ import java.io.File;
 public class DemoEksepsi2 {
     public static void main(String[] args) {
         File myFile = new File("test.txt");
-        myFile.createNewFile();
+//        myFile.createNewFile();
     }
 }

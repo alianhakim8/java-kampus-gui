@@ -15,7 +15,7 @@ public class DemoThrows {
        public static void main(String[] args) {
            SuatuKelas obj = new SuatuKelas();
            obj.metodeA();
-           obj.metodeB();
+//           obj.metodeB();
     }
     
 }
